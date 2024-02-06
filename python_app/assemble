@@ -1,0 +1,2 @@
+cp post_commit_script.py /opt/app-root/src/ 
+/usr/libexec/s2i/assemble
