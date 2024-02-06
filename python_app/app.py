@@ -1,1 +1,1 @@
-python3 -m http.server 8080
+print ("This is from a python program")
